@@ -1,6 +1,6 @@
 # fishingbuddymobile-official
 
-requiredments**
+Requirements**
 
 -node 14.9.0
 
