@@ -1,7 +1,8 @@
 # fishingbuddymobile-official
 
 requiredments**
-node v14.9.0
+-node 14.9.0
+-expo 3.28.4
 
 npm install
 
